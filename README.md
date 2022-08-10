@@ -1,6 +1,4 @@
-[Coursera EY8HQQ5CDW8H.pdf](https://github.com/Haider516/Haider516/files/9298475/Coursera.EY8HQQ5CDW8H.pdf)
-[certificate.pdf](https://github.com/Haider516/Haider516/files/9298477/certificate.pdf)
-[generate codedamn-pdf.pdf](https://github.com/Haider516/Haider516/files/9298478/generate.codedamn-pdf.pdf)
+
 -  Hi, I’m Muhammad Haider Akbar 
 - I’m interested in development.
 I’m looking to collaborate on:
@@ -23,6 +21,15 @@ I have  done my work on various projects  including
  -Project to find shortest path in maze
 - Project to Add Subtract And Multiply 2-D matrices.
 
+I have done courses :
+-Programming for Everybody (Getting Started with  Python
+ [Coursera EY8HQQ5CDW8H.pdf](https://github.com/Haider516/Haider516/files/9298475/Coursera.EY8HQQ5CDW8H.pdf)
+
+-photoshop CC
+[certificate.pdf](https://github.com/Haider516/Haider516/files/9298477/certificate.pdf)
+
+-LEARN THE BASICS OF WEB - INTERNET FUNDAMENTALS
+[generate codedamn-pdf.pdf](https://github.com/Haider516/Haider516/files/9298478/generate.codedamn-pdf.pdf)
 
 📫 How to reach me via my email address **(mrzubairi516@gmail.com)**
 <!---
