@@ -4,7 +4,7 @@
 I’m looking to collaborate on:
    - c++/python projects relating data structure  and oop 
    - Html And CSS for front end development.
-   - MySQL(query language)
+   - MySQL
    -  WordPress 
    -  Photoshop CC
     - MS office  (making reports,assignment,presentation)
