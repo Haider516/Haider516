@@ -2,8 +2,8 @@
 -  Hi, I’m Muhammad Haider Akbar 
 - I’m interested in development.
 I’m looking to collaborate on:
-   - c++/python projects relating data structure  and oop 
-   - Html And CSS for front end development.
+   - C++ projects relating data structure  and oop 
+   - Html And CSS ,Bootstrap javascript for front end development.
    - MySQL
    -  WordPress 
    -  Photoshop CC
