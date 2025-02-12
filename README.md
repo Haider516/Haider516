@@ -1,38 +1,50 @@
+<h1 align="center"> Hi, I'm Muhammad Haider Akbar Zubairi👋 </h1>
+<h3 align="center"> 🚀 Full-Stack Developer | Angular | React | Node.js </h3>
 
--  Hi, I’m Muhammad Haider Akbar 
-- I’m interested in development.
-I’m looking to collaborate on:
-   - C++ projects relating data structure  and oop 
-   - Html And CSS ,Bootstrap javascript for front end development.
-   - MySQL
-   -  WordPress 
-   -  Photoshop CC
-    - MS office  (making reports,assignment,presentation)
+🌟 Passionate about **building scalable, high-performance web applications** with **Angular, React, and Node.js**.  
+I specialize in **backend development (NestJS, Express, Strapi)** and **state management (Redux, NgRx)**.
 
+---
 
-I have  done my work on various projects  including 
--Society Employee Payment Management System.
+## 🚀 **About Me**
+- 🔹 **Full-Stack Developer** (Angular, React, Node.js)
+- 🏗️ Experience in **Strapi, NestJS, Express, Redux, PostgreSQL**
+- 🔥 Love working on **high-performance applications**
+- 📈 **Looking for collaborations** on exciting projects
+- 📩 Contact me at **[Your Email]**
 
--Mobile Phone Directory (The project provides almost all aspects that a user should have on their phone
-                        that including contact add/delete/modify/contact list displayed alphabetically/keeping track of 
-                        recently contacted persons.)
-- Library Management System (The project keeps a record of books availability in the library also opportunity to add /delete/update of any book .)
-- Currency Converter (Designed  a currency converter converting up to 11 currencies  using basic  programming fundamentals in C++)
- -Project to find shortest path in maze
-- Project to Add Subtract And Multiply 2-D matrices.
+---
 
-I have done courses :
--Programming for Everybody (Getting Started with  Python
- [Coursera EY8HQQ5CDW8H.pdf](https://github.com/Haider516/Haider516/files/9298475/Coursera.EY8HQQ5CDW8H.pdf)
+## ⚡ **Tech Stack & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
--photoshop CC
-[certificate.pdf](https://github.com/Haider516/Haider516/files/9298477/certificate.pdf)
+---
 
--LEARN THE BASICS OF WEB - INTERNET FUNDAMENTALS
-[generate codedamn-pdf.pdf](https://github.com/Haider516/Haider516/files/9298478/generate.codedamn-pdf.pdf)
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" height="150px"/>
+</p>
 
-📫 How to reach me via my email address **(mrzubairi516@gmail.com)**
-<!---
-Haider516/Haider516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌍 **Let's Connect**
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+💡 _Let's build something amazing together!_ 🚀
