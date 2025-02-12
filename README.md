@@ -1,8 +1,10 @@
 <h1 align="center"> Hi, I'm Muhammad Haider Akbar Zubairi👋 </h1>
 <h3 align="center"> 🚀 Full-Stack Developer | Angular | React | Node.js </h3>
 
-🌟 Passionate about **building scalable, high-performance web applications** with **Angular, React, and Node.js**.  
-I specialize in **backend development (NestJS, Express, Strapi)** and **state management (Redux, NgRx)**.
+🌟 Passionate about **building full-stack, scalable, and data-driven web applications** using **MEAN (MongoDB, Express, Angular, Node.js) and MERN (MongoDB, Express, React, Node.js) stacks**.  
+
+💡 I specialize in **developing dynamic front-end experiences (Angular, React) and designing robust, high-performance backend systems (NestJS, Express, Strapi)**.  
+🔹 Skilled in **state management (Redux, NgRx)** and optimizing **real-time, data-intensive applications** for **seamless user experiences**.  
 
 ---
 
@@ -32,8 +34,8 @@ I specialize in **backend development (NestJS, Express, Strapi)** and **state ma
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Haider516&show_icons=true&theme=radical" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haider516&theme=radical" height="150px"/>
 </p>
 
 ---
